@@ -1,0 +1,16 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "aprendiendo TDD con mocha,chai y sinon",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*test.js --exit"
+  },
+  "author": "Jose Manuel",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.4.1",
+    "mocha": "^10.4.0",
+    "sinon": "^17.0.1"
+  }
+}
